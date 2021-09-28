@@ -1,0 +1,245 @@
+.container{
+    max-width: 1440px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0 20;
+}
+
+.title{
+    /* max-width: 1440px; */
+    height: 92px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    width: 100%;
+    background-color: #ffffff;
+    display: flex;
+    box-shadow: 0 0 5px 5px;
+}
+.nashr{
+    color: orange;
+}
+.logo{
+    margin-left: 60px;
+    width: 38px;
+    height: 53px;
+    margin-top: 20px;
+}
+.head1{
+    color: black;
+    margin-left: 22px;
+    margin-top: 17px;
+    font-weight: 700;
+}
+.list{
+    list-style-type: none;
+    display: flex;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+a{
+    text-decoration: none;
+}
+.item{
+    color: orange;
+    border-bottom: 1px solid orange;
+    text-transform: uppercase;
+}
+.item1{
+    color: orange;
+    text-transform: uppercase;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.item2{
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    padding-right: 20px;
+}
+.royhat{
+    width: 155px;
+    height: 39px;
+    background-color: orange;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    margin-top: 27px;
+}
+.banner{
+    display: flex;
+    margin-top: 80px;
+    width: 100%;
+    height: 408px;
+    background-color: rgba(31, 30, 30, 0.8);
+}
+.royhat2{
+    width: 155px;
+    height: 39px;
+    background-color: orange;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    margin-top: 32px;
+
+}
+.orange{
+    width: 80px;
+    height: 2px;
+    background-color: orange;
+    margin-top: 80px;
+    margin-left: 5px;
+}
+.one{
+    margin-left: 170px;
+    color: #ffffff;
+}
+.python{
+    margin-top: 40px;
+    margin-bottom: 24px;
+}
+.dastur{
+    width: 387px;
+}
+.img{
+    width: 480px;
+    height: 480px;
+    margin-left: 203px;
+    margin-top: 40px;
+    margin-right: 100px;
+}
+.white{
+    margin-top: 209px;
+    margin-bottom: 100px;
+    height: 650px;
+}
+.odin{
+    width: 235px;
+    height: 172px;
+    margin-left: 120px;
+
+}
+.orange2{
+    width: 80px;
+    height: 2px;
+    background-color: orange;
+    margin-top: 80px;
+    margin-left: 125px;
+
+}
+.sozla{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.uz{
+    width: 314px;
+    height: 72px;
+}
+.broun{
+    display: flex;
+    justify-content: space-between;
+}
+.black{
+    width: 1100px;
+    height: 419px;
+    background-color: #252420;
+    border-radius: 12px;
+    margin-left: 120px;
+    color: #ffffff;
+display: flex;
+}
+.joun{
+    width: 373px;
+    padding-top: 64px;
+    margin-left: 64px;
+}
+.oun{
+    font-style: 40px;
+    font-weight: 700;
+    width: 300px;
+    margin-bottom: 24px;
+}
+.ssw{
+margin-bottom: 24px;
+}
+.mount{
+    width: 440px;
+    height: 440px;
+    margin-bottom: 64px;
+    margin-top: -50px;
+    margin-left: 196px;
+}
+.book{
+    color: orange;
+}
+.footer{
+    background-color: rgba(192, 192, 192, 0.2);
+    width: 1440px;
+    height: 507px;
+    margin-top: 160px;
+}
+.moon{
+    display: flex;
+    margin-left: 80px;
+    padding-top: 36px;
+}
+.food{
+    margin-top: 35px;
+    color: rgba(0, 0, 0, 0.4);
+    margin-left: 15px;
+}
+.dush{
+    color: rgba(255, 166, 0, 1);
+}
+.icon{
+    margin-top: 37px;
+    margin-left: 768.29px;
+    padding-left: 40px;
+}
+.display{
+    display: flex;
+}
+.voon{
+    width: 1130px;
+    margin-top: 40px;
+    margin-left: 90px;
+}
+ul{
+    list-style-type: none;
+}
+.val1{
+    color: orange;
+    padding-bottom: 16px;
+    margin-left:25px;
+    margin-top: 64px;
+}
+.val{
+    color: rgb(0, 0, 0);
+    padding-bottom: 16px;
+    margin-left:25px;
+    
+}
+.ops1{
+    color: orange;
+    padding-bottom: 16px;
+    margin-left: 68px;
+    margin-top: 64px;
+}
+.ops{
+    color: rgb(0, 0, 0);
+    padding-bottom: 16px;
+    margin-left: 68px;
+    
+}
+.dot1{
+    color: orange;
+    padding-bottom: 16px;
+    margin-left: 68px;
+    margin-top: 64px;
+}
+.dot{
+    color: rgb(0, 0, 0);
+    padding-bottom: 16px;
+    margin-left: 68px;
+    
+}
